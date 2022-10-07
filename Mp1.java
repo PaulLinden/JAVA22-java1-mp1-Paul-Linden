@@ -11,11 +11,11 @@ public class Mp1 {
 
 			int svar;
 
-			int gissa = 1;
+			int gissa = -1;
 
 			int forsok = 1;
 
-			final int MAX = 10;
+			final int MAX = 100;
 
 			Scanner in = new Scanner(System.in);
 
