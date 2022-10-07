@@ -11,7 +11,7 @@ public class Mp1 {
 
 			int svar;
 
-			int gissa = -1;
+			int gissa = 1;
 
 			int forsok = 1;
 
